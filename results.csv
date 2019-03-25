@@ -1,0 +1,436 @@
+district_raw,state,district_num,region,dem,dem_per,gop,gop_edit,hold_flip
+Alabama District 1,Alabama,1,south,Kennedy,36.8,Byrne,63.2,GOP Hold
+Alabama District 2,Alabama,2,south,Isner,38.5,Roby,61.5,GOP Hold
+Alabama District 3,Alabama,3,south,Hagan,36.2,Rogers,63.8,GOP Hold
+Alabama District 4,Alabama,4,south,Auman,20.1,Aderholt,79.9,GOP Hold
+Alabama District 5,Alabama,5,south,Joffrion,38.9,Brooks,61.1,GOP Hold
+Alabama District 6,Alabama,6,south,Kline,30.8,Palmer,69.2,GOP Hold
+Alabama District 7,Alabama,7,south,Sewell,0,NA,NA,Dem Hold
+Alaska District 1,Alaska,1,west,NA,NA,Young,53.3,GOP Hold
+Arizona District 1,Arizona,1,west,O'Halleran,53.8,Rogers,46.2,Dem Hold
+Arizona District 2,Arizona,2,west,Kirkpatrick,54.7,Marquez Peterson,45.3,Dem Pickup
+Arizona District 3,Arizona,3,west,Grijalva,63.9,Pierson,36.1,Dem Hold
+Arizona District 4,Arizona,4,west,Brill,30.5,Gosar,68.2,GOP Hold
+Arizona District 5,Arizona,5,west,Greene,40.6,Biggs,59.4,GOP Hold
+Arizona District 6,Arizona,6,west,Malik,44.8,Schweikert,55.2,GOP Hold
+Arizona District 7,Arizona,7,west,Gallego,85.8,NA,NA,Dem Hold
+Arizona District 8,Arizona,8,west,Tipirneni,44.5,Lesko,55.5,GOP Hold
+Arizona District 9,Arizona,9,west,Stanton,61.1,Ferrara,38.9,Dem Hold
+Arkansas District 1,Arkansas,1,south,Desai,28.8,Crawford,68.9,GOP Hold
+Arkansas District 2,Arkansas,2,south,Tucker,45.8,Hill,52.1,GOP Hold
+Arkansas District 3,Arkansas,3,south,Mahony,32.6,Womack,64.8,GOP Hold
+Arkansas District 4,Arkansas,4,south,Shamel,31.3,Westerman,66.8,GOP Hold
+California District 1,California,1,west,Denney,45.1,LaMalfa,54.9,GOP Hold
+California District 2,California,2,west,Huffman,77,Mensing,23,Dem Hold
+California District 3,California,3,west,Garamendi,58.1,Schaupp,41.9,Dem Hold
+California District 4,California,4,west,Morse,45.9,McClintock,54.1,GOP Hold
+California District 5,California,5,west,Thompson,78.9,NA,NA,Dem Hold
+California District 6,California,6,west,Matsui,80.4,NA,NA,Dem Hold
+California District 7,California,7,west,Bera,55,Grant,45,Dem Hold
+California District 8,California,8,west,NA,NA,Cook,60,GOP Hold
+California District 9,California,9,west,McNerney,56.5,Livengood,43.5,Dem Hold
+California District 10,California,10,west,Harder,52.3,Denham,47.7,Dem Pickup
+California District 11,California,11,west,DeSaulnier,74.1,Fitzgerald,25.9,Dem Hold
+California District 12,California,12,west,Pelosi,86.8,Remmer,13.2,Dem Hold
+California District 13,California,13,west,Lee,88.4,NA,NA,Dem Hold
+California District 14,California,14,west,Speier,79.2,Osmena,20.8,Dem Hold
+California District 15,California,15,west,Swalwell,73,Peters,27,Dem Hold
+California District 16,California,16,west,Costa,57.5,Heng,42.5,Dem Hold
+California District 17,California,17,west,Khanna,75.3,Cohen,24.7,Dem Hold
+California District 18,California,18,west,Eshoo,74.5,Russell,25.5,Dem Hold
+California District 19,California,19,west,Lofgren,73.8,Aguilera,26.2,Dem Hold
+California District 20,California,20,west,Panetta,81.4,NA,NA,Dem Hold
+California District 21,California,21,west,Cox,50.4,Valadao,49.6,Dem Pickup
+California District 22,California,22,west,Janz,47.3,Nunes,52.7,GOP Hold
+California District 23,California,23,west,Matta,36.3,McCarthy,63.7,GOP Hold
+California District 24,California,24,west,Carbajal,58.6,Fareed,41.4,Dem Hold
+California District 25,California,25,west,Hill,54.4,Knight,45.6,Dem Pickup
+California District 26,California,26,west,Brownley,61.9,Sabato,38.1,Dem Hold
+California District 27,California,27,west,Chu,79.2,NA,NA,Dem Hold
+California District 28,California,28,west,Schiff,78.4,Nalbandian,21.6,Dem Hold
+California District 29,California,29,west,Cardenas,80.6,Bernal,19.4,Dem Hold
+California District 30,California,30,west,Sherman,73.4,Reed,26.6,Dem Hold
+California District 31,California,31,west,Aguilar,58.7,Flynn,41.3,Dem Hold
+California District 32,California,32,west,Napolitano,68.8,Scott,31.2,Dem Hold
+California District 33,California,33,west,Lieu,70,Wright,30,Dem Hold
+California District 34,California,34,west,Gomez,72.5,NA,NA,Dem Hold
+California District 35,California,35,west,Torres,69.4,Valiente,30.6,Dem Hold
+California District 36,California,36,west,Ruiz,59,Pelzer,41,Dem Hold
+California District 37,California,37,west,Bass,89.1,Bassilian,10.9,Dem Hold
+California District 38,California,38,west,Sanchez,68.9,Downing,31.1,Dem Hold
+California District 39,California,39,west,Cisneros,51.6,Kim,48.4,Dem Pickup
+California District 40,California,40,west,Roybal-Allard,77.3,NA,NA,Dem Hold
+California District 41,California,41,west,Takano,65.1,Smith,34.9,Dem Hold
+California District 42,California,42,west,Peacock,43.5,Calvert,56.5,GOP Hold
+California District 43,California,43,west,Waters,77.7,Navarro,22.3,Dem Hold
+California District 44,California,44,west,Barragan,68.3,NA,NA,Dem Hold
+California District 45,California,45,west,Porter,52.1,Walters,47.9,Dem Pickup
+California District 46,California,46,west,Correa,69.1,Lambert,30.9,Dem Hold
+California District 47,California,47,west,Lowenthal,64.9,Briscoe,35.1,Dem Hold
+California District 48,California,48,west,Rouda,53.6,Rohrabacher,46.4,Dem Pickup
+California District 49,California,49,west,Levin,56.4,Harkey,43.6,Dem Pickup
+California District 50,California,50,west,Campa-Najjar,48.3,Hunter,51.7,GOP Hold
+California District 51,California,51,west,Vargas,71.2,Hidalgo,28.8,Dem Hold
+California District 52,California,52,west,Peters,63.8,Qudrat,36.2,Dem Hold
+California District 53,California,53,west,Davis,69.1,Murtaugh,30.9,Dem Hold
+Colorado District 1,Colorado,1,west,DeGette,73.8,Stockham,23,Dem Hold
+Colorado District 2,Colorado,2,west,Neguse,60.3,Yu,33.6,Dem Hold
+Colorado District 3,Colorado,3,west,Mitsch,NA,Tipton,51.5,GOP Hold
+Colorado District 4,Colorado,4,west,McCormick,39.4,Buck,60.6,GOP Hold
+Colorado District 5,Colorado,5,west,Spaulding,39.3,Lamborn,57,GOP Hold
+Colorado District 6,Colorado,6,west,Crow,54.1,Coffman,42.9,Dem Pickup
+Colorado District 7,Colorado,7,west,Perlmutter,60.4,Barrington,35.4,Dem Hold
+Connecticut District 1,Connecticut,1,northeast,Larson,63.7,Nye,35.2,Dem Hold
+Connecticut District 2,Connecticut,2,northeast,Courtney,62.1,Postemski,35.5,Dem Hold
+Connecticut District 3,Connecticut,3,northeast,DeLauro,64.4,Cadena,35.6,Dem Hold
+Connecticut District 4,Connecticut,4,northeast,Himes,60.9,Arora,39.1,Dem Hold
+Connecticut District 5,Connecticut,5,northeast,Hayes,55.8,Santos,44.2,Dem Hold
+Delaware District 1,Delaware,1,south,Rochester,64.5,Walker,35.5,Dem Hold
+Florida District 1,Florida,1,south,Zimmerman,32.9,Gaetz,67.1,GOP Hold
+Florida District 2,Florida,2,south,Rackleff,32.6,Dunn,67.4,GOP Hold
+Florida District 3,Florida,3,south,Hayes,NA,Yoho,57.6,GOP Hold
+Florida District 4,Florida,4,south,Selmont,32.4,Rutherford,65.2,GOP Hold
+Florida District 5,Florida,5,south,Lawson,66.8,Fuller,33.2,Dem Hold
+Florida District 6,Florida,6,south,Soderberg,43.7,Waltz,56.3,GOP Hold
+Florida District 7,Florida,7,south,Murphy,57.7,Miller,42.3,Dem Hold
+Florida District 8,Florida,8,south,Patel,39.5,Posey,60.5,GOP Hold
+Florida District 9,Florida,9,south,Soto,58,Liebnitzky,42,Dem Hold
+Florida District 10,Florida,10,south,Demings,0,NA,NA,Dem Hold
+Florida District 11,Florida,11,south,Cottrell,34.8,Webster,65.2,GOP Hold
+Florida District 12,Florida,12,south,Hunter,39.7,Bilirakis,58.1,GOP Hold
+Florida District 13,Florida,13,south,Crist,57.6,Buck,42.4,Dem Hold
+Florida District 14,Florida,14,south,Castor,0,NA,NA,Dem Hold
+Florida District 15,Florida,15,south,Carlson,47,Spano,53,GOP Hold
+Florida District 16,Florida,16,south,Shapiro,45.4,Buchanan,54.6,GOP Hold
+Florida District 17,Florida,17,south,Freeman-Allen,NA,Steube,62.3,GOP Hold
+Florida District 18,Florida,18,south,Baer,45.7,Mast,54.3,GOP Hold
+Florida District 19,Florida,19,south,Holden,37.7,Rooney,62.3,GOP Hold
+Florida District 20,Florida,20,south,Hastings,0,NA,NA,Dem Hold
+Florida District 21,Florida,21,south,Frankel,0,NA,NA,Dem Hold
+Florida District 22,Florida,22,south,Deutch,62,Kimaz,38,Dem Hold
+Florida District 23,Florida,23,south,Wasserman,NA,Kaufman,36,Dem Hold
+Florida District 24,Florida,24,south,Wilson,0,NA,NA,Dem Hold
+Florida District 25,Florida,25,south,Barzee,NA,Diaz-Balart,60.5,GOP Hold
+Florida District 26,Florida,26,south,Mucarsel-Powell,50.9,Curbelo,49.1,Dem Pickup
+Florida District 27,Florida,27,south,Shalala,51.8,Salazar,45.8,Dem Pickup
+Georgia District 1,Georgia,1,south,Ring,42.3,Carter,57.7,GOP Hold
+Georgia District 2,Georgia,2,south,Bishop,59.6,West,40.4,Dem Hold
+Georgia District 3,Georgia,3,south,Enderlin,34.5,Ferguson,65.5,GOP Hold
+Georgia District 4,Georgia,4,south,Johnson,78.8,Profit,21.2,Dem Hold
+Georgia District 5,Georgia,5,south,Lewis,0,NA,NA,Dem Hold
+Georgia District 6,Georgia,6,south,McBath,50.5,Handel,49.5,Dem Pickup
+Georgia District 7,Georgia,7,south,Bourdeaux,49.9,Woodall,50.1,GOP Hold
+Georgia District 8,Georgia,8,south,NA,NA,Scott,0,GOP Hold
+Georgia District 9,Georgia,9,south,McCall,20.5,Collins,79.5,GOP Hold
+Georgia District 10,Georgia,10,south,Johnson-Green,37.1,Hice,62.9,GOP Hold
+Georgia District 11,Georgia,11,south,Broady,38.2,Loudermilk,61.8,GOP Hold
+Georgia District 12,Georgia,12,south,Johnson,40.5,Allen,59.5,GOP Hold
+Georgia District 13,Georgia,13,south,Scott,76.2,Callahan,23.8,Dem Hold
+Georgia District 14,Georgia,14,south,Foster,23.5,Graves,76.5,GOP Hold
+Hawaii District 1,Hawaii,1,west,Case,73.1,Cavasso,23.1,Dem Hold
+Hawaii District 2,Hawaii,2,west,Gabbard,77.4,Evans,22.6,Dem Hold
+Idaho District 1,Idaho,1,west,McNeil,30.8,Fulcher,62.7,GOP Hold
+Idaho District 2,Idaho,2,west,Swisher,39.3,Simpson,60.7,GOP Hold
+Illinois District 1,Illinois,1,midwest,Rush,73.5,Tillman,19.8,Dem Hold
+Illinois District 2,Illinois,2,midwest,Kelly,81.1,Merkle,18.9,Dem Hold
+Illinois District 3,Illinois,3,midwest,Lipinski,73.8,Jones,26.2,Dem Hold
+Illinois District 4,Illinois,4,midwest,Garcia,86.6,Lorch,13.4,Dem Hold
+Illinois District 5,Illinois,5,midwest,Quigley,76.7,Hanson,23.3,Dem Hold
+Illinois District 6,Illinois,6,midwest,Casten,53.6,Roskam,46.4,Dem Pickup
+Illinois District 7,Illinois,7,midwest,Davis,87.6,Cameron,12.4,Dem Hold
+Illinois District 8,Illinois,8,midwest,Krishnamoorthi,66,Diganvker,34,Dem Hold
+Illinois District 9,Illinois,9,midwest,Schakowsky,73.5,Elleson,26.5,Dem Hold
+Illinois District 10,Illinois,10,midwest,Schneider,65.6,Bennett,34.4,Dem Hold
+Illinois District 11,Illinois,11,midwest,Foster,63.8,Stella,36.2,Dem Hold
+Illinois District 12,Illinois,12,midwest,Kelly,45.4,Bost,51.6,GOP Hold
+Illinois District 13,Illinois,13,midwest,Dirksen,NA,Davis,50.4,GOP Hold
+Illinois District 14,Illinois,14,midwest,Underwood,52.5,Hultgren,47.5,Dem Pickup
+Illinois District 15,Illinois,15,midwest,Gaither,29.1,Shimkus,70.9,GOP Hold
+Illinois District 16,Illinois,16,midwest,Dady,40.9,Kinzinger,59.1,GOP Hold
+Illinois District 17,Illinois,17,midwest,Bustos,62.1,Fawell,37.9,Dem Hold
+Illinois District 18,Illinois,18,midwest,Rodriguez,32.8,LaHood,67.2,GOP Hold
+Indiana District 1,Indiana,1,midwest,Visclosky,65.1,Leyva,34.9,Dem Hold
+Indiana District 2,Indiana,2,midwest,Hall,45.2,Walorski,54.8,GOP Hold
+Indiana District 3,Indiana,3,midwest,Tritch,35.3,Banks,64.7,GOP Hold
+Indiana District 4,Indiana,4,midwest,Beck,35.9,Baird,64.1,GOP Hold
+Indiana District 5,Indiana,5,midwest,Thornton,43.2,Brooks,56.8,GOP Hold
+Indiana District 6,Indiana,6,midwest,Lake,32.9,Pence,63.8,GOP Hold
+Indiana District 7,Indiana,7,midwest,Carson,64.9,Harmon,35.1,Dem Hold
+Indiana District 8,Indiana,8,midwest,Tanoos,35.6,Bucshon,64.4,GOP Hold
+Indiana District 9,Indiana,9,midwest,Watson,43.5,Hollingsworth,56.5,GOP Hold
+Iowa District 1,Iowa,1,midwest,Finkenauer,51,Blum,45.9,Dem Pickup
+Iowa District 2,Iowa,2,midwest,Loebsack,54.8,Peters,42.6,Dem Hold
+Iowa District 3,Iowa,3,midwest,Axne,49.3,Young,47.2,Dem Pickup
+Iowa District 4,Iowa,4,midwest,Scholten,47,King,50.4,GOP Hold
+Kansas District 1,Kansas,1,midwest,LaPolice,31.6,Marshall,68.4,GOP Hold
+Kansas District 2,Kansas,2,midwest,Davis,46.4,Watkins,48.1,GOP Hold
+Kansas District 3,Kansas,3,midwest,Davids,53.3,Yoder,44.2,Dem Pickup
+Kansas District 4,Kansas,4,midwest,Thompson,40.2,Estes,59.8,GOP Hold
+Kentucky District 1,Kentucky,1,south,Walker,31.4,Comer,68.6,GOP Hold
+Kentucky District 2,Kentucky,2,south,Linderman,31.1,Guthrie,66.7,GOP Hold
+Kentucky District 3,Kentucky,3,south,Yarmuth,62.1,Glisson,36.6,Dem Hold
+Kentucky District 4,Kentucky,4,south,Hall,34.6,Massie,62.2,GOP Hold
+Kentucky District 5,Kentucky,5,south,Stepp,21.1,Rogers,78.9,GOP Hold
+Kentucky District 6,Kentucky,6,south,McGrath,47.8,Barr,51,GOP Hold
+Louisiana District 1,Louisiana,1,south,Savoie,16.4,Scalise,71.5,GOP Hold
+Louisiana District 2,Louisiana,2,south,Richmond,80.6,NA,NA,Dem Hold
+Louisiana District 3,Louisiana,3,south,Methvin,17.8,Higgins,55.7,GOP Hold
+Louisiana District 4,Louisiana,4,south,Trundle,33.6,Johnson,64.2,GOP Hold
+Louisiana District 5,Louisiana,5,south,Fleenor,30,Abraham,66.5,GOP Hold
+Louisiana District 6,Louisiana,6,south,Dewitt,20.5,Graves,69.5,GOP Hold
+Maine District 1,Maine,1,northeast,Pingree,58.8,Holbrook,32.4,Dem Hold
+Maine District 2,Maine,2,northeast,Golden,45.5,Poliquin,46.2,Dem Pickup
+Maryland District 1,Maryland,1,south,Colvin,38.1,Harris,60,GOP Hold
+Maryland District 2,Maryland,2,south,Ruppersberger,66.1,Matory,30.7,Dem Hold
+Maryland District 3,Maryland,3,south,Sarbanes,69.2,Anthony,28.3,Dem Hold
+Maryland District 4,Maryland,4,south,Brown,78.1,McDermott,19.9,Dem Hold
+Maryland District 5,Maryland,5,south,Hoyer,70.4,Devine,27.1,Dem Hold
+Maryland District 6,Maryland,6,south,Trone,59,Hoeber,38,Dem Hold
+Maryland District 7,Maryland,7,south,Cummings,76.5,Davis,21.3,Dem Hold
+Maryland District 8,Maryland,8,south,Raskin,68.2,Walsh,30.3,Dem Hold
+Massachusetts District 1,Massachusetts,1,northeast,Neal,0,NA,NA,Dem Hold
+Massachusetts District 2,Massachusetts,2,northeast,McGovern,67.2,Lovvorn,32.8,Dem Hold
+Massachusetts District 3,Massachusetts,3,northeast,Trahan,62,Green,33.5,Dem Hold
+Massachusetts District 4,Massachusetts,4,northeast,Kennedy,0,NA,NA,Dem Hold
+Massachusetts District 5,Massachusetts,5,northeast,Clark,75.9,Hugo,24.1,Dem Hold
+Massachusetts District 6,Massachusetts,6,northeast,Moulton,65.2,Schneider,31.4,Dem Hold
+Massachusetts District 7,Massachusetts,7,northeast,Pressley,0,NA,NA,Dem Hold
+Massachusetts District 8,Massachusetts,8,northeast,Lynch,0,NA,NA,Dem Hold
+Massachusetts District 9,Massachusetts,9,northeast,Keating,59.5,Tedeschi,40.5,Dem Hold
+Michigan District 1,Michigan,1,midwest,Morgan,43.7,Bergman,56.3,GOP Hold
+Michigan District 2,Michigan,2,midwest,Davidson,43,Huizenga,55.3,GOP Hold
+Michigan District 3,Michigan,3,midwest,Albro,43.2,Amash,54.4,GOP Hold
+Michigan District 4,Michigan,4,midwest,Hilliard,37.4,Moolenaar,62.6,GOP Hold
+Michigan District 5,Michigan,5,midwest,Kildee,59.5,Wines,35.9,Dem Hold
+Michigan District 6,Michigan,6,midwest,Longjohn,45.7,Upton,50.2,GOP Hold
+Michigan District 7,Michigan,7,midwest,Driskell,46.2,Walberg,53.8,GOP Hold
+Michigan District 8,Michigan,8,midwest,Slotkin,50.6,Bishop,46.8,Dem Pickup
+Michigan District 9,Michigan,9,midwest,Levin,59.7,Stearns,36.8,Dem Hold
+Michigan District 10,Michigan,10,midwest,Bizon,35,Mitchell,60.3,GOP Hold
+Michigan District 11,Michigan,11,midwest,Stevens,51.8,Epstein,45.2,Dem Pickup
+Michigan District 12,Michigan,12,midwest,Dingell,68.1,Jones,28.9,Dem Hold
+Michigan District 13,Michigan,13,midwest,Tlaib,84.6,NA,NA,Dem Hold
+Michigan District 14,Michigan,14,midwest,Lawrence,80.9,Herschfus,17.3,Dem Hold
+Minnesota District 1,Minnesota,1,midwest,Feehan,49.8,Hagedorn,50.2,GOP Pickup
+Minnesota District 2,Minnesota,2,midwest,Craig,52.8,Lewis,47.2,Dem Pickup
+Minnesota District 3,Minnesota,3,midwest,Phillips,55.7,Paulsen,44.3,Dem Pickup
+Minnesota District 4,Minnesota,4,midwest,McCollum,66,Ryan,29.8,Dem Hold
+Minnesota District 5,Minnesota,5,midwest,Omar,78.2,Zielinski,21.8,Dem Hold
+Minnesota District 6,Minnesota,6,midwest,Todd,38.8,Emmer,61.2,GOP Hold
+Minnesota District 7,Minnesota,7,midwest,Peterson,52.1,Hughes,47.9,Dem Hold
+Minnesota District 8,Minnesota,8,midwest,Radinovich,45.2,Stauber,50.7,GOP Pickup
+Mississippi District 1,Mississippi,1,south,Wadkins,32.3,Kelly,67,GOP Hold
+Mississippi District 2,Mississippi,2,south,Thompson,71.8,NA,NA,Dem Hold
+Mississippi District 3,Mississippi,3,south,Evans,36.3,Guest,62.7,GOP Hold
+Mississippi District 4,Mississippi,4,south,Anderson,29.3,Palazzo,69.6,GOP Hold
+Missouri District 1,Missouri,1,midwest,Clay,80.1,Vroman,16.7,Dem Hold
+Missouri District 2,Missouri,2,midwest,VanOstran,47.2,Wagner,51.2,GOP Hold
+Missouri District 3,Missouri,3,midwest,Geppert,32.8,Luetkemeyer,65.1,GOP Hold
+Missouri District 4,Missouri,4,midwest,Hoagenson,32.7,Hartzler,64.8,GOP Hold
+Missouri District 5,Missouri,5,midwest,Cleaver,61.7,Turk,35.6,Dem Hold
+Missouri District 6,Missouri,6,midwest,Martin,32,Graves,65.4,GOP Hold
+Missouri District 7,Missouri,7,midwest,Schoolcraft,30.1,Long,66.2,GOP Hold
+Missouri District 8,Missouri,8,midwest,Ellis,25,Smith,73.4,GOP Hold
+Montana District 1,Montana,1,west,Williams,46.2,Gianforte,50.9,GOP Hold
+Nebraska District 1,Nebraska,1,midwest,McClure,39.6,Fortenberry,60.4,GOP Hold
+Nebraska District 2,Nebraska,2,midwest,Eastman,49,Bacon,51,GOP Hold
+Nebraska District 3,Nebraska,3,midwest,Theobald,23.3,Smith,76.7,GOP Hold
+Nevada District 1,Nevada,1,west,Titus,66.2,Bentley,30.9,Dem Hold
+Nevada District 2,Nevada,2,west,Koble,41.8,Amodei,58.2,GOP Hold
+Nevada District 3,Nevada,3,west,Lee,51.9,Tarkanian,42.8,Dem Hold
+Nevada District 4,Nevada,4,west,Horsford,51.9,Hardy,43.7,Dem Hold
+New Hampshire District 1,New Hampshire,1,northeast,Pappas,53.5,Edwards,45,Dem Hold
+New Hampshire District 2,New Hampshire,2,northeast,McLane,NA,Negron,42.2,Dem Hold
+New Jersey District 1,New Jersey,1,northeast,Norcross,64.4,Dilks,33.3,Dem Hold
+New Jersey District 2,New Jersey,2,northeast,Van,NA,Grossman,45.2,Dem Pickup
+New Jersey District 3,New Jersey,3,northeast,Kim,50,MacArthur,48.7,Dem Pickup
+New Jersey District 4,New Jersey,4,northeast,Welle,43.1,Smith,55.4,GOP Hold
+New Jersey District 5,New Jersey,5,northeast,Gottheimer,56.2,McCann,42.5,Dem Hold
+New Jersey District 6,New Jersey,6,northeast,Pallone,63.6,Pezzullo,36.4,Dem Hold
+New Jersey District 7,New Jersey,7,northeast,Malinowski,51.7,Lance,46.7,Dem Pickup
+New Jersey District 8,New Jersey,8,northeast,Sires,78.1,Muniz,18.7,Dem Hold
+New Jersey District 9,New Jersey,9,northeast,Pascrell,70.3,Fisher,28.9,Dem Hold
+New Jersey District 10,New Jersey,10,northeast,Payne,NA,Khan,10.1,Dem Hold
+New Jersey District 11,New Jersey,11,northeast,Sherrill,56.8,Webber,42.1,Dem Pickup
+New Jersey District 12,New Jersey,12,northeast,Watson,NA,Kipnis,31.3,Dem Hold
+New Mexico District 1,New Mexico,1,west,Haaland,59.1,Arnold-Jones,36.3,Dem Hold
+New Mexico District 2,New Mexico,2,west,Small,50.9,Herrell,49.1,Dem Pickup
+New Mexico District 3,New Mexico,3,west,Lujan,63.4,McFall,31.2,Dem Hold
+New York District 1,New York,1,northeast,Gershon,47.4,Zeldin,51.5,GOP Hold
+New York District 2,New York,2,northeast,Grechen,NA,King,53.1,GOP Hold
+New York District 3,New York,3,northeast,Suozzi,59,DeBono,41,Dem Hold
+New York District 4,New York,4,northeast,Rice,61.3,Benno,38.7,Dem Hold
+New York District 5,New York,5,northeast,Meeks,0,NA,NA,Dem Hold
+New York District 6,New York,6,northeast,Meng,90.9,NA,NA,Dem Hold
+New York District 7,New York,7,northeast,Velazquez,93.4,NA,NA,Dem Hold
+New York District 8,New York,8,northeast,Jeffries,94.2,NA,NA,Dem Hold
+New York District 9,New York,9,northeast,Clarke,89.3,Gayot,10.3,Dem Hold
+New York District 10,New York,10,northeast,Nadler,82.1,Levin,17.9,Dem Hold
+New York District 11,New York,11,northeast,Rose,53,Donovan,46.6,Dem Pickup
+New York District 12,New York,12,northeast,Maloney,86.4,Rabin,12.1,Dem Hold
+New York District 13,New York,13,northeast,Espaillat,94.6,Butler,5.4,Dem Hold
+New York District 14,New York,14,northeast,Ocasio-Cortez,78.2,Pappas,13.6,Dem Hold
+New York District 15,New York,15,northeast,Serrano,96,Gonzalez,4,Dem Hold
+New York District 16,New York,16,northeast,Engel,0,NA,NA,Dem Hold
+New York District 17,New York,17,northeast,Lowey,88,NA,NA,Dem Hold
+New York District 18,New York,18,northeast,Maloney,55.5,O'Donnell,44.5,Dem Hold
+New York District 19,New York,19,northeast,Delgado,51.4,Faso,46.2,Dem Pickup
+New York District 20,New York,20,northeast,Tonko,66.5,Vitollo,33.5,Dem Hold
+New York District 21,New York,21,northeast,Cobb,42.4,Stefanik,56.1,GOP Hold
+New York District 22,New York,22,northeast,Brindisi,50.9,Tenney,49.1,Dem Pickup
+New York District 23,New York,23,northeast,Mitrano,45.8,Reed,54.2,GOP Hold
+New York District 24,New York,24,northeast,Balter,47.4,Katko,52.6,GOP Hold
+New York District 25,New York,25,northeast,Morelle,59,Maxwell,41,Dem Hold
+New York District 26,New York,26,northeast,Higgins,73.3,Zeno,26.7,Dem Hold
+New York District 27,New York,27,northeast,McMurray,48.8,Collins,49.1,GOP Hold
+North Carolina District 1,North Carolina,1,south,Butterfield,69.8,Allison,30.2,Dem Hold
+North Carolina District 2,North Carolina,2,south,Coleman,45.7,Holding,51.4,GOP Hold
+North Carolina District 3,North Carolina,3,south,NA,NA,Jones,0,GOP Hold
+North Carolina District 4,North Carolina,4,south,Price,72.3,Loor,24.1,Dem Hold
+North Carolina District 5,North Carolina,5,south,Adams,42.8,Foxx,57.2,GOP Hold
+North Carolina District 6,North Carolina,6,south,Watts,43.4,Walker,56.6,GOP Hold
+North Carolina District 7,North Carolina,7,south,Horton,42.7,Rouzer,55.6,GOP Hold
+North Carolina District 8,North Carolina,8,south,McNeill,44.6,Hudson,55.4,GOP Hold
+North Carolina District 9,North Carolina,9,south,McCready,48.8,Harris,49.4,NA
+North Carolina District 10,North Carolina,10,south,Brown,40.7,McHenry,59.3,GOP Hold
+North Carolina District 11,North Carolina,11,south,Price,38.7,Meadows,59.2,GOP Hold
+North Carolina District 12,North Carolina,12,south,Adams,73,Wright,27,Dem Hold
+North Carolina District 13,North Carolina,13,south,Manning,45.5,Budd,51.6,GOP Hold
+North Dakota District 1,North Dakota,1,midwest,Schneider,35.6,Armstrong,60.3,GOP Hold
+Ohio District 1,Ohio,1,midwest,Pureval,46.9,Chabot,51.3,GOP Hold
+Ohio District 2,Ohio,2,midwest,Schiller,41.2,Wenstrup,57.6,GOP Hold
+Ohio District 3,Ohio,3,midwest,Beatty,73.6,Burgess,26.4,Dem Hold
+Ohio District 4,Ohio,4,midwest,Garrett,34.7,Jordan,65.3,GOP Hold
+Ohio District 5,Ohio,5,midwest,Galbraith,35.1,Latta,62.3,GOP Hold
+Ohio District 6,Ohio,6,midwest,Roberts,30.7,Johnson,69.3,GOP Hold
+Ohio District 7,Ohio,7,midwest,Harbaugh,41.3,Gibbs,58.7,GOP Hold
+Ohio District 8,Ohio,8,midwest,Enoch,33.4,Davidson,66.6,GOP Hold
+Ohio District 9,Ohio,9,midwest,Kaptur,67.8,Kraus,32.2,Dem Hold
+Ohio District 10,Ohio,10,midwest,Gasper,42.2,Turner,55.9,GOP Hold
+Ohio District 11,Ohio,11,midwest,Fudge,82.2,Goldstein,17.8,Dem Hold
+Ohio District 12,Ohio,12,midwest,O'Connor,47.2,Balderson,51.4,GOP Hold
+Ohio District 13,Ohio,13,midwest,Ryan,61,DePizzo,39,Dem Hold
+Ohio District 14,Ohio,14,midwest,Rader,44.8,Joyce,55.2,GOP Hold
+Ohio District 15,Ohio,15,midwest,Neal,39.7,Stivers,58.3,GOP Hold
+Ohio District 16,Ohio,16,midwest,Palmer,43.3,Gonzalez,56.7,GOP Hold
+Oklahoma District 1,Oklahoma,1,south,Gilpin,40.7,Hern,59.3,GOP Hold
+Oklahoma District 2,Oklahoma,2,south,Nichols,30.1,Mullin,65,GOP Hold
+Oklahoma District 3,Oklahoma,3,south,Robbins,26.1,Lucas,73.9,GOP Hold
+Oklahoma District 4,Oklahoma,4,south,Brannon,33,Cole,63.1,GOP Hold
+Oklahoma District 5,Oklahoma,5,south,Horn,50.7,Russell,49.3,Dem Pickup
+Oregon District 1,Oregon,1,west,Bonamici,63.7,Verbeek,32.1,Dem Hold
+Oregon District 2,Oregon,2,west,McLeod-Skinner,39.4,Walden,56.3,GOP Hold
+Oregon District 3,Oregon,3,west,Blumenauer,72.7,Harrison,19.9,Dem Hold
+Oregon District 4,Oregon,4,west,DeFazio,56,Robinson,40.9,Dem Hold
+Oregon District 5,Oregon,5,west,Schrader,55.1,Callahan,41.9,Dem Hold
+Pennsylvania District 1,Pennsylvania,1,northeast,Wallace,48.7,Fitzpatrick,51.3,GOP Hold
+Pennsylvania District 2,Pennsylvania,2,northeast,Boyle,79,Torres,21,Dem Hold
+Pennsylvania District 3,Pennsylvania,3,northeast,Evans,93.4,Leib,6.6,Dem Hold
+Pennsylvania District 4,Pennsylvania,4,northeast,Dean,63.5,David,36.5,Dem Hold
+Pennsylvania District 5,Pennsylvania,5,northeast,Scanlon,65.2,Kim,34.8,Dem Pickup
+Pennsylvania District 6,Pennsylvania,6,northeast,Houlahan,58.9,McCauley,41.1,Dem Pickup
+Pennsylvania District 7,Pennsylvania,7,northeast,Wild,53.5,Nothstein,43.5,Dem Pickup
+Pennsylvania District 8,Pennsylvania,8,northeast,Cartwright,54.6,Chrin,45.4,Dem Hold
+Pennsylvania District 9,Pennsylvania,9,northeast,Wolff,40.3,Meuser,59.7,GOP Hold
+Pennsylvania District 10,Pennsylvania,10,northeast,Scott,48.7,Perry,51.3,GOP Hold
+Pennsylvania District 11,Pennsylvania,11,northeast,King,41,Smucker,59,GOP Hold
+Pennsylvania District 12,Pennsylvania,12,northeast,Friedenberg,34,Marino,66,GOP Hold
+Pennsylvania District 13,Pennsylvania,13,northeast,Ottaway,29.5,Joyce,70.5,GOP Hold
+Pennsylvania District 14,Pennsylvania,14,northeast,Boerio,42.1,Reschenthaler,57.9,GOP Pickup
+Pennsylvania District 15,Pennsylvania,15,northeast,Boser,32.2,Thompson,67.8,GOP Hold
+Pennsylvania District 16,Pennsylvania,16,northeast,DiNicola,47.3,Kelly,51.6,GOP Hold
+Pennsylvania District 17,Pennsylvania,17,northeast,Lamb,56.3,Rothfus,43.7,Dem Pickup
+Pennsylvania District 18,Pennsylvania,18,northeast,Doyle,0,NA,NA,Dem Hold
+Rhode Island District 1,Rhode Island,1,northeast,Cicilline,66.9,Donovan,33.1,Dem Hold
+Rhode Island District 2,Rhode Island,2,northeast,Langevin,63.6,Caiozzo,36.4,Dem Hold
+South Carolina District 1,South Carolina,1,south,Cunningham,50.7,Arrington,49.3,Dem Pickup
+South Carolina District 2,South Carolina,2,south,Carrigan,42.5,Wilson,56.3,GOP Hold
+South Carolina District 3,South Carolina,3,south,Geren,31,Duncan,67.8,GOP Hold
+South Carolina District 4,South Carolina,4,south,Brown,36.6,Timmons,59.6,GOP Hold
+South Carolina District 5,South Carolina,5,south,Parnell,41.5,Norman,57.1,GOP Hold
+South Carolina District 6,South Carolina,6,south,Clyburn,70.2,Gressmann,28.3,Dem Hold
+South Carolina District 7,South Carolina,7,south,Williams,40.4,Rice,59.6,GOP Hold
+South Dakota District 1,South Dakota,1,midwest,Bjorkman,36,Johnson,60.3,GOP Hold
+Tennessee District 1,Tennessee,1,south,Olsen,21,Roe,77.1,GOP Hold
+Tennessee District 2,Tennessee,2,south,Hoyos,33.1,Burchett,65.9,GOP Hold
+Tennessee District 3,Tennessee,3,south,Mitchell,34.5,Fleischmann,63.7,GOP Hold
+Tennessee District 4,Tennessee,4,south,Phillips,33.6,DesJarlais,63.4,GOP Hold
+Tennessee District 5,Tennessee,5,south,Cooper,67.8,Ball,32.2,Dem Hold
+Tennessee District 6,Tennessee,6,south,Barlow,28.3,Rose,69.5,GOP Hold
+Tennessee District 7,Tennessee,7,south,Kanew,32.1,Green,66.9,GOP Hold
+Tennessee District 8,Tennessee,8,south,Pearson,30.1,Kustoff,67.7,GOP Hold
+Tennessee District 9,Tennessee,9,south,Cohen,80,Bergmann,19.2,Dem Hold
+Texas District 1,Texas,1,south,McKellar,26.3,Gohmert,72.3,GOP Hold
+Texas District 2,Texas,2,south,Litton,45.6,Crenshaw,52.8,GOP Hold
+Texas District 3,Texas,3,south,Burch,44.3,Taylor,54.3,GOP Hold
+Texas District 4,Texas,4,south,Krantz,23,Ratcliffe,75.7,GOP Hold
+Texas District 5,Texas,5,south,Wood,37.6,Gooden,62.4,GOP Hold
+Texas District 6,Texas,6,south,Sanchez,45.4,Wright,53.1,GOP Hold
+Texas District 7,Texas,7,south,Fletcher,52.5,Culberson,47.5,Dem Pickup
+Texas District 8,Texas,8,south,David,24.9,Brady,73.4,GOP Hold
+Texas District 9,Texas,9,south,Green,89.1,NA,NA,Dem Hold
+Texas District 10,Texas,10,south,Siegel,46.8,McCaul,51.1,GOP Hold
+Texas District 11,Texas,11,south,Leeder,18.4,Conaway,80.1,GOP Hold
+Texas District 12,Texas,12,south,Adia,33.9,Granger,64.3,GOP Hold
+Texas District 13,Texas,13,south,Sagan,16.9,Thornberry,81.5,GOP Hold
+Texas District 14,Texas,14,south,Bell,39.3,Weber,59.2,GOP Hold
+Texas District 15,Texas,15,south,Gonzalez,59.7,Westley,38.8,Dem Hold
+Texas District 16,Texas,16,south,Escobar,68.5,Seeberger,27,Dem Hold
+Texas District 17,Texas,17,south,Kennedy,41.3,Flores,56.8,GOP Hold
+Texas District 18,Texas,18,south,Jackson,NA,Pate,20.8,Dem Hold
+Texas District 19,Texas,19,south,Levario,24.8,Arrington,75.2,GOP Hold
+Texas District 20,Texas,20,south,Castro,80.9,NA,NA,Dem Hold
+Texas District 21,Texas,21,south,Kopser,47.6,Roy,50.2,GOP Hold
+Texas District 22,Texas,22,south,Kulkarni,46.5,Olson,51.4,GOP Hold
+Texas District 23,Texas,23,south,Ortiz,NA,Hurd,49.2,GOP Hold
+Texas District 24,Texas,24,south,McDowell,47.5,Marchant,50.6,GOP Hold
+Texas District 25,Texas,25,south,Oliver,44.8,Williams,53.5,GOP Hold
+Texas District 26,Texas,26,south,Fagan,39,Burgess,59.4,GOP Hold
+Texas District 27,Texas,27,south,Holguin,36.6,Cloud,60.3,GOP Hold
+Texas District 28,Texas,28,south,Cuellar,84.4,NA,NA,Dem Hold
+Texas District 29,Texas,29,south,Garcia,75.1,Aronoff,23.9,Dem Hold
+Texas District 30,Texas,30,south,Johnson,91.1,NA,NA,Dem Hold
+Texas District 31,Texas,31,south,Hegar,47.7,Carter,50.6,GOP Hold
+Texas District 32,Texas,32,south,Allred,52.3,Sessions,45.8,Dem Pickup
+Texas District 33,Texas,33,south,Veasey,76.2,Billups,21.9,Dem Hold
+Texas District 34,Texas,34,south,Vela,60,Gonzalez,40,Dem Hold
+Texas District 35,Texas,35,south,Doggett,71.3,Smalling,26,Dem Hold
+Texas District 36,Texas,36,south,Steele,27.4,Babin,72.6,GOP Hold
+Utah District 1,Utah,1,west,Castillo,24.9,Bishop,61.6,GOP Hold
+Utah District 2,Utah,2,west,Ghorbani,38.9,Stewart,56.1,GOP Hold
+Utah District 3,Utah,3,west,Singer,27.3,Curtis,67.5,GOP Hold
+Utah District 4,Utah,4,west,McAdams,50.1,Love,49.9,Dem Pickup
+Vermont District 1,Vermont,1,northeast,Welch,69.2,Tynio,26,Dem Hold
+Virginia District 1,Virginia,1,south,Williams,44.8,Wittman,55.2,GOP Hold
+Virginia District 2,Virginia,2,south,Luria,51.1,Taylor,48.9,Dem Pickup
+Virginia District 3,Virginia,3,south,Scott,0,NA,NA,Dem Hold
+Virginia District 4,Virginia,4,south,McEachin,62.6,McAdams,36,Dem Hold
+Virginia District 5,Virginia,5,south,Cockburn,46.7,Riggleman,53.3,GOP Hold
+Virginia District 6,Virginia,6,south,Lewis,40.2,Cline,59.8,GOP Hold
+Virginia District 7,Virginia,7,south,Spanberger,50.4,Brat,48.4,Dem Pickup
+Virginia District 8,Virginia,8,south,Beyer,76.3,Oh,23.7,Dem Hold
+Virginia District 9,Virginia,9,south,Flaccavento,34.8,Griffith,65.2,GOP Hold
+Virginia District 10,Virginia,10,south,Wexton,56.2,Comstock,43.8,Dem Pickup
+Virginia District 11,Virginia,11,south,Connolly,71.2,Dove,27,Dem Hold
+Washington District 1,Washington,1,west,DelBene,59.3,Beeler,40.7,Dem Hold
+Washington District 2,Washington,2,west,Larsen,71.3,NA,NA,Dem Hold
+Washington District 3,Washington,3,west,Long,47.3,Herrera Beutler,52.7,GOP Hold
+Washington District 4,Washington,4,west,Brown,37.2,Newhouse,62.8,GOP Hold
+Washington District 5,Washington,5,west,Brown,45.2,McMorris Rodgers,54.8,GOP Hold
+Washington District 6,Washington,6,west,Kilmer,63.9,Dightman,36.1,Dem Hold
+Washington District 7,Washington,7,west,Jayapal,83.6,Keller,16.4,Dem Hold
+Washington District 8,Washington,8,west,Schrier,52.4,Rossi,47.6,Dem Pickup
+Washington District 9,Washington,9,west,Smith,67.9,NA,NA,Dem Hold
+Washington District 10,Washington,10,west,Heck,61.5,Brumbles,38.5,Dem Hold
+West Virginia District 1,West Virginia,1,south,Fershee,35.4,McKinley,64.6,GOP Hold
+West Virginia District 2,West Virginia,2,south,Sergent,42.9,Mooney,54,GOP Hold
+West Virginia District 3,West Virginia,3,south,Ojeda,43.6,Miller,56.4,GOP Hold
+Wisconsin District 1,Wisconsin,1,midwest,Bryce,42.3,Steil,54.6,GOP Hold
+Wisconsin District 2,Wisconsin,2,midwest,Pocan,0,NA,NA,Dem Hold
+Wisconsin District 3,Wisconsin,3,midwest,Kind,59.7,Toft,40.3,Dem Hold
+Wisconsin District 4,Wisconsin,4,midwest,Moore,75.7,Rogers,21.7,Dem Hold
+Wisconsin District 5,Wisconsin,5,midwest,Palzewicz,38,Sensenbrenner,62,GOP Hold
+Wisconsin District 6,Wisconsin,6,midwest,Kohl,44.5,Grothman,55.5,GOP Hold
+Wisconsin District 7,Wisconsin,7,midwest,Engebretson,38.5,Duffy,60.1,GOP Hold
+Wisconsin District 8,Wisconsin,8,midwest,Liegeois,36.3,Gallagher,63.7,GOP Hold
+Wyoming District 1,Wyoming,1,west,Hunter,29.8,Cheney,63.7,GOP Hold
